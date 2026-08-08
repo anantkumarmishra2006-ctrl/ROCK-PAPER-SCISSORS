@@ -1,6 +1,6 @@
 # 🪨 Rock Paper Scissors
 
-A simple Rock Paper Scissors game made using HTML, CSS and JavaScript.
+A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. It allows users to play against the computer with an interactive and user-friendly interface.
 
 ## 🛠️ Technologies
 - HTML
